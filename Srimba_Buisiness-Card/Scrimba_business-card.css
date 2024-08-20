@@ -10,17 +10,17 @@ body {
     width: 400px;
     margin: 0 auto;
     text-align: center;
-    background: #ddebf8;
-    color: #2b2839;
-    border-bottom: 6px solid #d8cefe;
+    background: #1b2f33;
+    color: #ceec97;
+    border-bottom: 6px solid #ee5622;
 }
 
 .avatar {
     width: 150px;
 }
 
-.border-blue {
+/* .border-blue {
     border: 1px dotted blue;
-}
+} */
 
 
