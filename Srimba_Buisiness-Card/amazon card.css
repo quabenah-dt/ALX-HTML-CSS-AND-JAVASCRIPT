@@ -1,3 +1,30 @@
 body  {
-    font-family:'Lucida Sans';
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cover {
+    width: 350px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.container {
+    display: flex;
+    /* border: 1px  solid red; */
+}
+
+.breadcrumb {
+    color: #565959;
+}
+
+.aside {
+    padding: 50px;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+a {
+    color: #007185;
 }
