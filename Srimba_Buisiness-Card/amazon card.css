@@ -28,3 +28,8 @@ h3 {
 a {
     color: #007185;
 }
+
+c {
+    display: block;
+    flex-direction: column-reverse;
+}
